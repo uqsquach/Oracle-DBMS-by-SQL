@@ -1,3 +1,5 @@
+/*Implenmented by Son Quach - the individual project of Relational Database Systems in UQ */
+
 /*Create & Populate Database*/
 @C:\prjScript.sql
 
